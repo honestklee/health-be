@@ -1,0 +1,9 @@
+venv/
+
+alembic.ini
+.env
+.venv
+__pycache__/
+venv-bsmr
+/uploads
+/template_output
